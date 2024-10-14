@@ -1,4 +1,4 @@
-# Gestor de Puertos
+# UPnP Port Manager
 
 Un script simple en Python para abrir y cerrar puertos en una red local utilizando UPnP.
 
@@ -11,8 +11,8 @@ Un script simple en Python para abrir y cerrar puertos en una red local utilizan
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/gestor-de-puertos.git
+    git clone https://github.com/tuusuario/gestor-de-puertos.git
 
 2. Ejecuta el archivo:
   ```bash
-   python3 ports.py
+    python3 ports.py
