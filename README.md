@@ -11,7 +11,7 @@ Un script simple en Python para abrir y cerrar puertos en una red local utilizan
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/gestor-de-puertos.git
+   git clone https://github.com/T4skor/UPnP-Port-Manager/
 
 2. Ejecuta el archivo:
   ```bash
